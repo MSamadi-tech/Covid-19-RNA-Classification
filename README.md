@@ -9,7 +9,7 @@ Under the following terms:
 - **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - **NonCommercial**: You may not use the material for commercial purposes.
 
-For commercial use, please contact (mailto:msamadi.tech@gmail.com).
+For commercial use, please contact msamadi.tech@gmail.com.
 
 ![CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
